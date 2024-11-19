@@ -18,7 +18,7 @@ Cuando el cubo toca una araña de tipo 1, el marcador sube en 5 puntos mientras 
 
 ## Modificación
 Cuando el cubo toca un huevo, la araña que esta asignada a ese huevo se teletransporta a un punto que yo he marcado como referencia y la vida del cubo aumenta en 1.
-|[GIF de la ejecución](Modi.gif)
+![GIF de la ejecución](Modi.gif)
 
 ## Problemas
 En la escena 1 y la escena 2, tuve un problema que no supe arreglar ya que tengo un debugger que me muestra el mensaje por consola que la araña esta en movimiento hacia el objetivo, pero realmente la araña esta quieta y no supe camina.
